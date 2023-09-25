@@ -16,7 +16,7 @@ public class ActivityOne {
     public static void main(String[] args) {
         
         System.out.println("Hellow World");
-        System.out.println("Hellows");
+        System.out.println("Code example example");
         // TODO code application logic here
     }
     
